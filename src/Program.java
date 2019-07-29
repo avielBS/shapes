@@ -5,7 +5,6 @@ public class Program {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// aviel ben shalom 311315006
 
 		JFrame jf = new JFrame();
 		DrawPanel dp = new DrawPanel();
